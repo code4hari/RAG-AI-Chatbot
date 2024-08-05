@@ -1,0 +1,6 @@
+botenv/*
+chat_history.db
+test.py
+.env
+docs
+links.csv
